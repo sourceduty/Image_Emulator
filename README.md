@@ -14,6 +14,13 @@ Image Emulator leverages the capabilities of DALL-E, an advanced image generatio
 
 <br>
 </details>
+<details><summary>Wile E Coyote ACME Rocket</summary>
+<br>
+
+![Wile E Coyote ACME Rocket](https://github.com/sourceduty/Image_Emulator/assets/123030236/d36d715f-b222-478a-8166-8c4dbd398220)
+
+<br>
+</details>
 
 #
 ### Related Links
