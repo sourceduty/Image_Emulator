@@ -28,6 +28,13 @@ Image Emulator leverages the capabilities of DALL-E, an advanced image generatio
 
 <br>
 </details>
+<details><summary>Orange Porsche</summary>
+<br>
+
+![Orange Porsche](https://github.com/sourceduty/Image_Emulator/assets/123030236/e775c121-f4b4-463f-b14a-b129ca69857c)
+
+<br>
+</details>
 
 #
 ### Related Links
