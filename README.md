@@ -26,6 +26,8 @@ Image Emulator leverages the capabilities of DALL-E, an advanced image generatio
 
 ![Bond James Bond](https://github.com/sourceduty/Image_Emulator/assets/123030236/fb39c57a-f65e-4a69-971f-4c0f4bfdddb2)
 
+![Dentonite](https://github.com/sourceduty/Image_Emulator/assets/123030236/de88e507-a413-468d-b154-5b7ed8d31d3e)
+
 <br>
 </details>
 
