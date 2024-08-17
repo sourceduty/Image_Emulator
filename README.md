@@ -48,6 +48,8 @@ Image Emulator leverages the capabilities of DALL-E, an advanced image generatio
 [Image Tagger](https://github.com/sourceduty/Image_Tagger)
 <br>
 [Photo Location](https://github.com/sourceduty/Photo_Location)
+<br>
+[Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
