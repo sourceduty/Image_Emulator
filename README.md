@@ -1,4 +1,4 @@
-![Emulated Image](https://github.com/sourceduty/Image_Emulator/assets/123030236/a7de4748-b877-48b3-a097-3d267abf3872)
+![Image Emulator](https://github.com/user-attachments/assets/c06f7723-1305-495a-a645-613110b4b030)
 
 > Replicate images in different styles using DALL-E 3.
 
@@ -10,6 +10,8 @@ Image Emulator leverages the capabilities of DALL-E, an advanced image generatio
 
 #
 ### Image Emulation
+
+![Emulated Image](https://github.com/sourceduty/Image_Emulator/assets/123030236/a7de4748-b877-48b3-a097-3d267abf3872)
 
 Image emulation refers to the precise replication of visual characteristics, styles, or aesthetics of an image, creating a new version that accurately embodies a specific theme or artistic approach. Using advanced tools like DALL-E 3, this process meticulously transforms elements such as colors, textures, patterns, and composition to perfectly align with the desired style, whether it be retro, vintage, futuristic, or artistic. Unlike basic filters or adjustments, image emulation employs sophisticated algorithms and models to reimagine the original image, ensuring that the recreated version faithfully captures the essence of the chosen style while maintaining the fundamental features of the source image.
 
