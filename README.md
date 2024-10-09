@@ -1,4 +1,4 @@
-![Image Emulator](https://github.com/user-attachments/assets/c06f7723-1305-495a-a645-613110b4b030)
+![Gamer Baby](https://github.com/user-attachments/assets/f5410b6f-aa59-4728-9f41-c0bca620c6ac)
 
 > Replicate images in different styles using DALL-E 3.
 
