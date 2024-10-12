@@ -1,4 +1,4 @@
-![Gamer Baby](https://github.com/user-attachments/assets/f5410b6f-aa59-4728-9f41-c0bca620c6ac)
+![Orange Porsche](https://github.com/sourceduty/Image_Emulator/assets/123030236/e775c121-f4b4-463f-b14a-b129ca69857c)
 
 > Replicate images in different styles using DALL-E 3.
 
@@ -18,6 +18,13 @@ Image emulation refers to the precise replication of visual characteristics, sty
 DALL-E 3's capabilities push image emulation beyond conventional limits, achieving a high level of exactness in reproducing complex artistic styles. It can seamlessly translate an image into a completely different aesthetic, accurately reflecting even the most nuanced details of the chosen theme. This precision allows for the creation of images that not only resemble but also deeply reflect the targeted style, making the emulated version a true artistic transformation rather than a superficial alteration.
 
 In contrast, image simulation refers to the creation or modification of images to represent hypothetical scenarios, environments, or conditions that may not exist in reality. Simulation is more exploratory and experimental, aiming to generate images based on conceptual models, such as simulating how an object would appear under different lighting conditions or in a different setting. While emulation is about reproducing a specific, often stylistic, aesthetic with high fidelity, simulation is about generating plausible or imaginative representations that might not strictly adhere to a particular style.
+
+#
+### Image Styles
+
+When recreating images, there are several styles to choose from, each offering a unique visual feel and aesthetic. Exact style aims for precise replication, maintaining the original’s colors, textures, and details as closely as possible. This style is ideal for those who want an almost identical emulation of the source image. Retro takes us back to a few decades ago, giving the image a vibe reminiscent of the 70s, 80s, or 90s. Expect bold colors, grainy textures, and elements that evoke nostalgia, like neon lights or vintage patterns. Vintage leans even further into the past, drawing from the early to mid-20th century with soft, faded tones, distressed textures, and warm, muted color palettes that create an aged and nostalgic look.
+
+For a touch of history, Antique and Ancient styles provide a window to the distant past. Antique style adds characteristics typical of 18th- to 19th-century imagery, with sepia tones, cracks, and ornate details. Ancient style, however, transports the image to historical eras like ancient Egypt or Greece, incorporating stone textures, primitive colors, and hieroglyphic or archaic design motifs. Modern choices include 2D for a flat, illustrated look, and 3D for added depth and dimension, resembling a digitally sculpted model. Graffiti brings a street art feel with spray paint effects, bold lines, and vibrant colors, while Makeshift has a handmade, DIY appearance, with textures and details that feel cobbled together. Lastly, Sci-Fi immerses the image in a futuristic world, often incorporating sleek metallic finishes, neon lights, and otherworldly elements. Each of these styles allows for creative freedom in how an image is re-imagined.
 
 #
 ### Emulation or Simulation
@@ -49,13 +56,6 @@ Image Emulator, however, focuses on visual emulation, providing precise replicat
 <br>
 
 ![Bond James Bond](https://github.com/sourceduty/Image_Emulator/assets/123030236/fb39c57a-f65e-4a69-971f-4c0f4bfdddb2)
-
-<br>
-</details>
-<details><summary>Orange Porsche</summary>
-<br>
-
-![Orange Porsche](https://github.com/sourceduty/Image_Emulator/assets/123030236/e775c121-f4b4-463f-b14a-b129ca69857c)
 
 <br>
 </details>
