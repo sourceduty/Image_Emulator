@@ -74,6 +74,8 @@ Image Emulator, however, focuses on visual emulation, providing precise replicat
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
