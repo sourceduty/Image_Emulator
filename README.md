@@ -61,6 +61,13 @@ Image Emulator, however, focuses on visual emulation, providing precise replicat
 
 <br>
 </details>
+<details><summary>Trippy Emulated Truck</summary>
+<br>
+
+![Emulated Trippy](https://github.com/user-attachments/assets/b9815102-0622-4376-87a4-c0875fba42cc)
+
+<br>
+</details>
 
 #
 ### Related Links
