@@ -99,6 +99,8 @@ Using the "Emulate a series of styles for my image" feature with this custom GPT
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 <br>
 [GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
+<br>
+[Rebrand](https://github.com/sourceduty/Rebrand)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
