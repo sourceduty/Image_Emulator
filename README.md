@@ -20,7 +20,7 @@ DALL-E 3's capabilities push image emulation beyond conventional limits, achievi
 In contrast, image simulation refers to the creation or modification of images to represent hypothetical scenarios, environments, or conditions that may not exist in reality. Simulation is more exploratory and experimental, aiming to generate images based on conceptual models, such as simulating how an object would appear under different lighting conditions or in a different setting. While emulation is about reproducing a specific, often stylistic, aesthetic with high fidelity, simulation is about generating plausible or imaginative representations that might not strictly adhere to a particular style.
 
 #
-### Image Styles
+### 12 Image Styles
 
 ![Graffiti](https://github.com/user-attachments/assets/f356ccca-231b-4625-916f-7978f953dca7)
 
