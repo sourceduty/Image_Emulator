@@ -49,7 +49,7 @@ Image Emulator, however, focuses on visual emulation, providing precise replicat
 #
 ### Series Prompt
 
-
+![Series](https://github.com/user-attachments/assets/a8f366d5-1b6f-4c7a-a1f2-4b6d71db75a3)
 
 Using the "Emulate a series of styles for my image" feature with this custom GPT allows users to upload an image and transform it across a variety of artistic styles. This unique tool enables exploration of creative reinterpretations such as retro, vintage, graffiti, or sci-fi, among others. By simply choosing a preferred style, users can see how their image would look with the chosen aesthetic. This makes it perfect for anyone looking to visually experiment, gain inspiration, or create unique, stylized versions of their original image. It’s an interactive and engaging way to blend art with technology, providing a fresh perspective on familiar images.
 
