@@ -31,6 +31,7 @@ In contrast, image simulation refers to the creation or modification of images t
 
 ![Graffiti](https://github.com/user-attachments/assets/f356ccca-231b-4625-916f-7978f953dca7)
 
+```
 Exact: Closely replicate the style and feel.
 Retro: Give it a vintage or old-school cartoon vibe.
 Vintage: Make it feel like it's from an earlier era, such as the 1930s-50s.
@@ -43,6 +44,7 @@ Trippy: Add psychedelic colors and patterns.
 Graffiti: Recreate it as a street-art or mural style.
 Makeshift: A DIY or rough, improvised look.
 Sci-fi: Give it a futuristic or space-age twist.
+```
 
 #
 ### Emulation or Simulation
