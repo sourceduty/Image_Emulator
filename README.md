@@ -31,9 +31,18 @@ In contrast, image simulation refers to the creation or modification of images t
 
 ![Graffiti](https://github.com/user-attachments/assets/f356ccca-231b-4625-916f-7978f953dca7)
 
-When recreating images, there are various styles to choose from, each offering a unique aesthetic. The Exact style prioritizes precise replication, preserving the original’s colors, textures, and details for a nearly identical emulation. Retro adds a dash of nostalgia, evoking the 70s, 80s, or 90s with bold colors, grainy textures, and familiar touches like neon lights and iconic patterns. For those seeking an even older look, Vintage transports the image to the early to mid-20th century, featuring soft, faded tones, distressed textures, and warm, muted colors that evoke a sense of age. Stepping further back in time, Antique and Ancient styles bring a sense of history, with Antique lending sepia tones, cracks, and ornate details that mirror 18th- to 19th-century aesthetics, while Ancient adds elements of ancient civilizations such as stone textures and primitive colors reminiscent of Egyptian or Greek artifacts.
-
-For a modern touch, 2D and 3D styles offer artistic versatility: 2D presents a flat, illustrated look, while 3D introduces depth, creating the feel of a digitally sculpted model. Graffiti style infuses a street art vibe, with bold lines, spray paint effects, and vibrant colors that give a raw, urban energy. Makeshift offers a DIY feel, with textures that seem cobbled together from various materials for a hand-crafted appearance. Finally, Sci-Fi transports the image to the future, often featuring sleek metallic finishes, neon accents, and otherworldly elements. Each of these styles brings its own distinctive charm, allowing for creative freedom and diverse ways to reimagine an image.
+Exact: Closely replicate the style and feel.
+Retro: Give it a vintage or old-school cartoon vibe.
+Vintage: Make it feel like it's from an earlier era, such as the 1930s-50s.
+Antique: Add a worn, historical look as if it’s from the 19th century or earlier.
+Ancient: Reimagine the scene as an ancient artifact or fresco.
+2D: A simplified, flat design.
+3D: Add depth and realism to make it look more three-dimensional.
+Googie: Style it with futuristic 1950s/60s retro-futuristic aesthetics.
+Trippy: Add psychedelic colors and patterns.
+Graffiti: Recreate it as a street-art or mural style.
+Makeshift: A DIY or rough, improvised look.
+Sci-fi: Give it a futuristic or space-age twist.
 
 #
 ### Emulation or Simulation
